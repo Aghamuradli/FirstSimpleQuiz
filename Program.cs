@@ -11,47 +11,6 @@ namespace Quiz
         static void Main(string[] args)
         {
             FirstQuestion();
-            
-
-            //string[] vs = {
-            //    "1ci sual",
-            //    "1ci sual",
-            //    "1ci sual",
-            //    "1ci sual"
-            //};
-
-            //int[,] array = new int[3, 2]
-            //{
-            //    {1,2},
-            //    {3,4},
-            //    {5,6}
-            //};
-
-            //string[][] jaggedArr = new string[][]
-            //{
-            //      new string[] {"1ci sual", "A" },
-            //      new string[] {"2ci sual"},
-            //      new string[] {"3cu sual" ,"A", "B" }
-            //};
-
-            //string[,] vs2 = new string[3, 2]{
-            //        {"1ci sual", "A" },
-            //        {"2ci sual", "A" },
-            //        {"3cu sual" ,"A"}
-            //};
-
-            //List<string> list = new List<string>();
-            //list.Add("1ci sual");
-            //list.Add("2ci sual");
-            //list.Add("3ci sual");
-            //list.Add("4ci sual");
-
-            ////foreach (var sual in list)
-            ////{
-            ////    Console.WriteLine(sual);
-            ////}
-
-            //Console.WriteLine(list[0]);
         }
 
         static void FirstQuestion()
