@@ -1,0 +1,16 @@
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\bin\Debug\net5.0\Quiz.exe
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\bin\Debug\net5.0\Quiz.deps.json
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.json
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.dev.json
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\bin\Debug\net5.0\Quiz.dll
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\bin\Debug\net5.0\ref\Quiz.dll
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\bin\Debug\net5.0\Quiz.pdb
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\obj\Debug\net5.0\Quiz.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\obj\Debug\net5.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfo.cs
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\obj\Debug\net5.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\obj\Debug\net5.0\Quiz.dll
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\obj\Debug\net5.0\ref\Quiz.dll
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\obj\Debug\net5.0\Quiz.pdb
+C:\Users\Agamuradov\OneDrive\Masaüstü\Quiz\obj\Debug\net5.0\Quiz.genruntimeconfig.cache
